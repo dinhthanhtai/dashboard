@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    
+    &__others {
+        flex: 4;
+        background-color: lightpink;
+        
+    }
+}
